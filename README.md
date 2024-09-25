@@ -48,4 +48,3 @@ Gustavo Morales - [gamorales@unis.edu.gt]
 
 - Universidad del Istmo, Guatemala
 - Comunidad de La Piragua, San Agustín Acasaguastlán, El Progreso, Guatemala
-- [Otros agradecimientos relevantes]
