@@ -38,15 +38,11 @@ El proyecto se centra en el diseño e implementación de un sistema de conectivi
 
 Este proyecto fue desarrollado como parte de un trabajo de graduación. Si desea contribuir o tiene sugerencias, por favor abra un issue en este repositorio.
 
-## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## Contacto
+Gustavo Morales - [gamorales@unis.edu.gt]
 
-[Tu Nombre] - [tu-email@ejemplo.com]
-
-Enlace del proyecto: [https://github.com/tu-usuario/nombre-del-repo](https://github.com/tu-usuario/nombre-del-repo)
 
 ## Agradecimientos
 
